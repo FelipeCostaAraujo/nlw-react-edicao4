@@ -1,3 +1,6 @@
+# Trilha React
+**Move it**
+
 <div align="center">
     <img src=".github/nlw4.png" alt="Next Level Week #4">
 </div>
@@ -25,3 +28,16 @@ Durante esta **Next Level Week** foi desenvolvida uma APP para incentivar fazer 
 **Sobre**
 
 As aulas foram ministradas por **[Diego Fernandes](https://github.com/diego3g)** instrutor da [Rocketseat](https://rocketseat.com.br/)
+
+Instalação de dependencias e iniciar o projeto.
+
+```sh
+$ cd nlw-react-edicao4/moveit
+$ yarn
+
+$ yarn start
+```
+
+##  Info:
+- Autor - Felipe Araujo:
+- Date February/2021:
