@@ -4,8 +4,8 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge" alt="Typescript">
-    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge" alt="React">
     <img src="https://img.shields.io/badge/-NextJS-gray?style=for-the-badge" alt="Nextjs">
+    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge" alt="React">
 </div>
 
 <h4 align="center">
@@ -20,7 +20,7 @@
 
 **Move it**
 
-Durante esta **Next Level Week** foi desenvolvida uma APP para fazer exercicios durante as pausas de um dev.
+Durante esta **Next Level Week** foi desenvolvida uma APP para incentivar fazer exercicios e alongamentos durante as pausas de trabalho.
 
 # 📝 Sobre
 
