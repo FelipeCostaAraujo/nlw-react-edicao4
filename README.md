@@ -1,25 +1,35 @@
 # Trilha React
 **Move it**
 
+<p>
+  <img src="https://img.shields.io/badge/made%20by-FELIPE%20ARAUJO-6E40C9?style=flat-square">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/FelipeCostaAraujo/nlw-react-edicao4?color=6E40C9&style=flat-square">
+  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/FelipeCostaAraujo/nlw-react-edicao4?color=6E40C9&style=flat-square">
+  <a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
+  </a>
+  <a href="https://github.com/FelipeCostaAraujo/nlw-react-edicao4/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/FelipeCostaAraujo/nlw-react-edicao4?color=6E40C9&style=flat-square">
+  </a>
+</p>
+
+<img align="right" src=".github/icon.png" width="35%" alt="Move.it">
+
+## Tópicos 
+
+[Sobre o Move.it](#move-it)
+
+[Instalação e uso](#instalação-e-uso)
+
+[Licença](#licença)
+
+<br>
+
 <div align="center">
     <img src=".github/nlw4.png" alt="Next Level Week #4">
 </div>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge" alt="Typescript">
-    <img src="https://img.shields.io/badge/-NextJS-gray?style=for-the-badge" alt="Nextjs">
-    <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge" alt="React">
-</div>
 
-<h4 align="center">
-</h4>
-
-<div align="center">
-    <h2>
-    <a href="#-o-projeto">O projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#">Iniciando a jornada</a>
-    </h2>
-</div>
 
 # Move it
 
@@ -29,20 +39,26 @@ Durante esta **Next Level Week** foi desenvolvida uma APP para incentivar fazer 
 
 As aulas foram ministradas por **[Diego Fernandes](https://github.com/diego3g)** instrutor da [Rocketseat](https://rocketseat.com.br/)
 
-Instalação de dependencias e iniciar o projeto.
+## Instalação e uso
 
 ```sh
 $ cd nlw-react-edicao4/moveit
-$ yarn
+# Instale as dependências
+$ yarn install
 
+# Rode o aplicação
 $ yarn start
 ```
+<br>
 
-##  Info:
-- Autor - Felipe Araujo:
-- Date February/2021:
 
-----
-License
-----
-MIT
+## Licença
+<a href="https://opensource.org/licenses/MIT">
+    <img alt="License" src="https://img.shields.io/badge/license-MIT-6E40C9?style=flat-square">
+</a>
+
+<br>
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
+
+---
