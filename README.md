@@ -41,3 +41,8 @@ $ yarn start
 ##  Info:
 - Autor - Felipe Araujo:
 - Date February/2021:
+
+----
+License
+----
+MIT
