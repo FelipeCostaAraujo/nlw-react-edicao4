@@ -25,12 +25,6 @@
 
 <br>
 
-<div align="center">
-    <img src=".github/nlw4.png" alt="Next Level Week #4">
-</div>
-
-
-
 # Move it
 
 Durante esta **Next Level Week** foi desenvolvida uma APP para incentivar fazer exercicios e alongamentos durante as pausas de trabalho.
@@ -62,3 +56,9 @@ $ yarn start
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 ---
+
+<br>
+
+<div align="center">
+    <img src=".github/nlw4.png" alt="Next Level Week #4">
+</div>
