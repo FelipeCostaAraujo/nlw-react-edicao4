@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<img align="right" src=".github/icon.png" width="35%" alt="Move.it">
+<img align="right" src=".github/icon.svg" width="35%" alt="Move.it">
 
 ## Tópicos 
 
