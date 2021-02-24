@@ -18,10 +18,10 @@
     </h2>
 </div>
 
-**Move it**
+# Move it
 
 Durante esta **Next Level Week** foi desenvolvida uma APP para incentivar fazer exercicios e alongamentos durante as pausas de trabalho.
 
-# 📝 Sobre
+**Sobre**
 
 As aulas foram ministradas por **[Diego Fernandes](https://github.com/diego3g)** instrutor da [Rocketseat](https://rocketseat.com.br/)
