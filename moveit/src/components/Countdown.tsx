@@ -53,7 +53,7 @@ export function Countdown() {
                 <button
                     disabled
                     className={styles.countdownButton}>
-                    Ciclo encerrado
+                    Ciclo encerrado ✅
                 </button>
             ) : (
                     <>

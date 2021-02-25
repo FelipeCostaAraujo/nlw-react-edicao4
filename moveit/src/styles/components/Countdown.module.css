@@ -78,4 +78,5 @@
     background: var(--white);
     color: var(--text);
     cursor: not-allowed;
+    border-bottom: 2px solid rgb(9, 211, 9);
   }
