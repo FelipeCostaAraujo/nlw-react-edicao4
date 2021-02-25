@@ -1,7 +1,5 @@
 import { createContext, ReactNode, useState } from 'react';
 
-
-
 interface ChallengesProviderProps {
     children: ReactNode
 }
@@ -26,7 +24,7 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
     }
 
     function startNewChallenge() {
-        console.log("new challenge")
+        console.log("new challenge");
     }
 
     return (
