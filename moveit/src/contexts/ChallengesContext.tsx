@@ -1,4 +1,4 @@
-import { createContext, ReactNode, useState } from 'react';
+import { createContext, ReactNode, useEffect, useState } from 'react';
 import challenges from '../../challenges.json';
 
 interface ChallengesProviderProps {
@@ -33,6 +33,13 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
     const [activeChallenge, setActivaChallenge] = useState(null);
     const [lastExperience, setLastExperience] = useState(0);
 
+    const experienceToNextLevel = Math.pow((level + 1) * 4, 2);
+
+
+    useEffect(() => {
+        Notification.requestPermission()
+    }, []);
+
     function levelUp() {
         setLastExperience(experienceToNextLevel);
         setLevel(level + 1);
@@ -62,8 +69,6 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
         setActivaChallenge(null);
         setChallengesCompleted(challengesCompleted + 1);
     }
-
-    const experienceToNextLevel = Math.pow((level + 1) * 4, 2);
 
     function resetChallenge() {
         setActivaChallenge(null);
