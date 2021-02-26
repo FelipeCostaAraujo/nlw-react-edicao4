@@ -37,7 +37,7 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
 
 
     useEffect(() => {
-        Notification.requestPermission()
+        Notification.requestPermission();
     }, []);
 
     function levelUp() {
@@ -49,6 +49,10 @@ export function ChallengesProvider({ children }: ChallengesProviderProps) {
         const randomChallengeIndex = Math.floor(Math.random() * challenges.length);
         const challenge = challenges[randomChallengeIndex]
         setActivaChallenge(challenge);
+
+        const soundEffect = new Audio();
+
+        new Audio('/notification.ogg').play();
 
         if (Notification.permission === 'granted') {
             new Notification('Novo desafio 🎉', {
