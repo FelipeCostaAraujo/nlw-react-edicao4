@@ -56,7 +56,6 @@ $ yarn start
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
 
 ---
-
 <br>
 
 <div align="center">
